@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #2BA700;
+}
+
+.quem-somos {
+    background-color: #008DE3; /* cor antiga #8181f7 */
+    color: white;
+    padding: 10px;
+}
+
+.margin {
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    padding-top: 5px;
+    background-color: rgb(214, 105, 3); /* cor antiga #6868fa */
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
